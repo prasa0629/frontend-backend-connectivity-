@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
 
 - 🌱 I’m currently learning **frontend**
+- - 🔭 I’m currently working on **frontent & backend connectivity using html css and php**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
